@@ -1,0 +1,30 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Python virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large dataset files
+data/
+datasets/
+
+# Machine learning model outputs
+models/
+checkpoints/
+
+# IDE files
+.idea/
+.vscode/
+
+# Outputs (build, cache)
+build/
+dist/
+__pycache__/
